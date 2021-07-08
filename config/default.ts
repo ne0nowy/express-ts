@@ -1,3 +1,8 @@
+/**
+ * This is a sample file with the completed environment variables.
+ * Remember to change the RSA key (accessTokenPrivateKey) before using this code in production.
+ */
+
 export default {
     port: 2137,
     host: 'localhost',
